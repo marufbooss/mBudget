@@ -1,0 +1,8 @@
+{
+  "name": "mBudget - Multi-Platform Personal Budget Manager",
+  "description": "Responsive multi-platform personal finance & budget management system with Money Holders, transaction tracking, debt management, analytics, and Google Drive cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
